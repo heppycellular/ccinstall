@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- URL File Pre-compiled ---
-CCMINER_BIN_URL="https://raw.githubusercontent.com/Darktron/pre-compiled/generic/ccminer"
+CCMINER_BIN_URL="https://github.com/heppycellular/ccinstall/raw/main/ccminer"
 CONFIG_JSON_URL="https://raw.githubusercontent.com/Darktron/pre-compiled/generic/config.json" # Ini akan ditimpa
 START_SH_URL="https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh" # Ini akan ditimpa
 
